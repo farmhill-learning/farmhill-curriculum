@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website contains the knowledge base of the [Farmhil Learning Community](https://farmhill-learning.org/).
