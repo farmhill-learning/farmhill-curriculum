@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/farmhill-learning/farmhill-curriculum/index.html</loc>
-    <lastmod>2023-10-24T05:56:30.636Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/farmhill-learning/farmhill-curriculum/maths/index.html</loc>
-    <lastmod>2023-10-24T05:56:30.000Z</lastmod>
+    <lastmod>2023-10-24T13:27:31.951Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/farmhill-learning/farmhill-curriculum/about.html</loc>
-    <lastmod>2023-10-24T05:56:28.192Z</lastmod>
+    <lastmod>2023-10-24T13:27:31.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/farmhill-learning/farmhill-curriculum/Structure Discussion/structure.html</loc>
+    <lastmod>2023-10-24T13:27:30.755Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/farmhill-learning/farmhill-curriculum/index.html</loc>
+    <lastmod>2023-10-24T13:27:31.663Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/farmhill-learning/farmhill-curriculum/maths/primary.html</loc>
+    <lastmod>2023-10-24T13:27:32.227Z</lastmod>
   </url>
 </urlset>

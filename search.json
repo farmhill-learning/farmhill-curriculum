@@ -1,22 +1,22 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Farmhill Curriculum",
+    "objectID": "science/index.html",
+    "href": "science/index.html",
+    "title": "Science at Farmhill",
     "section": "",
-    "text": "Welcome to knowledge base of the Farmhil Learning Community.\nThis website contains the teaching resources curated by the teachers of Farmhill."
+    "text": "Science at Farmhill"
   },
   {
     "objectID": "maths/index.html",
     "href": "maths/index.html",
-    "title": "Maths at Farmhill",
+    "title": "Math at Farmhill",
     "section": "",
     "text": "This section contains the approach to math teaching at farm hill, across grades starting from preschool to 12th grade.\n\n\nAt the very broad level, we expect the students to think like mathematicians when they do math. While we do focus on content, methods and techniques, we would really like them to see the patterns around them and make sense."
   },
   {
     "objectID": "maths/index.html#the-approach",
     "href": "maths/index.html#the-approach",
-    "title": "Maths at Farmhill",
+    "title": "Math at Farmhill",
     "section": "",
     "text": "At the very broad level, we expect the students to think like mathematicians when they do math. While we do focus on content, methods and techniques, we would really like them to see the patterns around them and make sense."
   },
@@ -28,10 +28,17 @@
     "text": "This website contains the knowledge base of the Farmhil Learning Community."
   },
   {
-    "objectID": "science/index.html",
-    "href": "science/index.html",
-    "title": "Science at Farmhill",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Farmhill Curriculum",
     "section": "",
-    "text": "Science at Farmhill"
+    "text": "Welcome to knowledge base of the Farmhil Learning Community.\nThis website contains the teaching resources curated by the teachers of Farmhill."
+  },
+  {
+    "objectID": "maths/primary.html",
+    "href": "maths/primary.html",
+    "title": "Primary school Math",
+    "section": "",
+    "text": "Primary school Math\nThis section outlines\n\\(x^2+1\\)"
   }
 ]
