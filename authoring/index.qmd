@@ -1,0 +1,37 @@
+# Authoring Guide
+
+This section provides resoures and pointers on how to write and format content in this Quarto book.
+
+## Markdown
+
+Quarto uses _Markdown_ for document syntax.
+
+Markdown is a plain text format that is designed to be easy to write, and even more importantly, easy to read.
+
+The refer to [Markdown Basics in the Quarto Guide][1] for  how to format using Markdown.
+
+[1]: https://quarto.org/docs/authoring/markdown-basics.html
+
+
+## Page Structure
+
+Each `qmd` file in this repository gets rendered as a web page or an article.
+
+The structure of a typical page look something like this.
+
+```md
+# Page Title
+
+This is a page about blah blah blah.
+
+## Section 1
+
+...
+
+## Section 2
+
+...
+```
+
+The page starts with the main heading with `#` prefix and the section headings start with prefix `##`.
+
