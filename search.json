@@ -21,6 +21,27 @@
     "text": "At the very broad level, we expect the students to think like mathematicians when they do math. While we do focus on content, methods and techniques, we would really like them to see the patterns around them and make sense."
   },
   {
+    "objectID": "authoring/index.html",
+    "href": "authoring/index.html",
+    "title": "Authoring Guide",
+    "section": "",
+    "text": "This section provides resoures and pointers on how to write and format content in this Quarto book.\n\n\nQuarto uses Markdown for document syntax.\nMarkdown is a plain text format that is designed to be easy to write, and even more importantly, easy to read.\nThe refer to Markdown Basics in the Quarto Guide for how to format using Markdown.\n\n\n\nEach qmd file in this repository gets rendered as a web page or an article.\nThe structure of a typical page look something like this.\n# Page Title\n\nThis is a page about blah blah blah.\n\n## Section 1\n\n...\n\n## Section 2\n\n...\nThe page starts with the main heading with # prefix and the section headings start with prefix ##."
+  },
+  {
+    "objectID": "authoring/index.html#markdown",
+    "href": "authoring/index.html#markdown",
+    "title": "Authoring Guide",
+    "section": "",
+    "text": "Quarto uses Markdown for document syntax.\nMarkdown is a plain text format that is designed to be easy to write, and even more importantly, easy to read.\nThe refer to Markdown Basics in the Quarto Guide for how to format using Markdown."
+  },
+  {
+    "objectID": "authoring/index.html#page-structure",
+    "href": "authoring/index.html#page-structure",
+    "title": "Authoring Guide",
+    "section": "",
+    "text": "Each qmd file in this repository gets rendered as a web page or an article.\nThe structure of a typical page look something like this.\n# Page Title\n\nThis is a page about blah blah blah.\n\n## Section 1\n\n...\n\n## Section 2\n\n...\nThe page starts with the main heading with # prefix and the section headings start with prefix ##."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
