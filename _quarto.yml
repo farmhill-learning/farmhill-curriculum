@@ -20,7 +20,6 @@ website:
       contents: []
 
     - id: maths
-      style: docked
       contents:   
         - maths/early-years.qmd
         - maths/primary.qmd
