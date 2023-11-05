@@ -1,4 +1,3 @@
-# Primary school Math 
+# Primary School
 This section outlines
 
-$x^2+1$

@@ -16,14 +16,13 @@ website:
   sidebar:
     - id: default
       style: docked
-      contents: []
+      contents: auto
 
-   # - id: maths
-   #   contents:
-   #     - maths/primary.qmd
-   # -id: science
-   #   contents:
-   #     - science/index.qmd
+  # - id: maths
+   #     contents: auto
+   #- id: science
+    #contents: auto
+  
     
 format:
   html:
