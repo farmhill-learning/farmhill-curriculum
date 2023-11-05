@@ -9,16 +9,37 @@
   {
     "objectID": "maths/index.html",
     "href": "maths/index.html",
-    "title": "Math at Farmhill",
+    "title": "Mathematics",
     "section": "",
     "text": "This section contains the approach to math teaching at farm hill, across grades starting from preschool to 12th grade.\n\n\nAt the very broad level, we expect the students to think like mathematicians when they do math. While we do focus on content, methods and techniques, we would really like them to see the patterns around them and make sense."
   },
   {
     "objectID": "maths/index.html#the-approach",
     "href": "maths/index.html#the-approach",
-    "title": "Math at Farmhill",
+    "title": "Mathematics",
     "section": "",
     "text": "At the very broad level, we expect the students to think like mathematicians when they do math. While we do focus on content, methods and techniques, we would really like them to see the patterns around them and make sense."
+  },
+  {
+    "objectID": "maths/Secondary.html",
+    "href": "maths/Secondary.html",
+    "title": "Secondary School",
+    "section": "",
+    "text": "Secondary School"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Farmhill Curriculum",
+    "section": "",
+    "text": "Welcome to knowledge base of the Farmhil Learning Community.\nThis website contains the teaching resources curated by the teachers of Farmhill."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website contains the knowledge base of the Farmhil Learning Community."
   },
   {
     "objectID": "authoring/index.html",
@@ -42,24 +63,24 @@
     "text": "Each qmd file in this repository gets rendered as a web page or an article.\nThe structure of a typical page look something like this.\n# Page Title\n\nThis is a page about blah blah blah.\n\n## Section 1\n\n...\n\n## Section 2\n\n...\nThe page starts with the main heading with # prefix and the section headings start with prefix ##."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "maths/Early-years.html",
+    "href": "maths/Early-years.html",
+    "title": "Early Years",
     "section": "",
-    "text": "This website contains the knowledge base of the Farmhil Learning Community."
+    "text": "Early Years"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Farmhill Curriculum",
+    "objectID": "maths/Senior-secondary.html",
+    "href": "maths/Senior-secondary.html",
+    "title": "Senior Secondary School",
     "section": "",
-    "text": "Welcome to knowledge base of the Farmhil Learning Community.\nThis website contains the teaching resources curated by the teachers of Farmhill."
+    "text": "Senior Secondary School"
   },
   {
     "objectID": "maths/primary.html",
     "href": "maths/primary.html",
-    "title": "Primary school Math",
+    "title": "Primary School",
     "section": "",
-    "text": "Primary school Math\nThis section outlines\n\\(x^2+1\\)"
+    "text": "Primary School\nThis section outlines"
   }
 ]
