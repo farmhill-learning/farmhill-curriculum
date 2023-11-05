@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Farmhill Curriculum"
+  page-navigation: true
   navbar:
     left:
       - href: index.qmd
@@ -16,18 +17,23 @@ website:
   sidebar:
     - id: default
       style: docked
-      contents: auto
+      contents: []
 
-  # - id: maths
-   #     contents: auto
-   #- id: science
-    #contents: auto
+    - id: maths
+      style: docked
+      contents:   
+        - maths/early-years.qmd
+        - maths/primary.qmd
+        - maths/secondary.qmd
+        - maths/senior-secondary.qmd
+    - id: science
+      contents: []
   
     
 format:
   html:
     theme: cosmo
-    css: styles.css
+    #css: styles.css
     toc: true
     page-layout: full
 
