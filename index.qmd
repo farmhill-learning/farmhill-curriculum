@@ -1,6 +1,6 @@
 ---
 title: "Farmhill Curriculum"
-sidebar: default
+
 ---
 
 Welcome to knowledge base of the [Farmhil Learning Community](https://farmhill-learning.org/).
