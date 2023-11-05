@@ -11,15 +11,26 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - maths/index.qmd
+      - science/index.qmd
   sidebar:
-    docked: true
-    contents: auto
+    - id: default
+      style: docked
+      contents: []
 
+   # - id: maths
+   #   contents:
+   #     - maths/primary.qmd
+   # -id: science
+   #   contents:
+   #     - science/index.qmd
+    
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
