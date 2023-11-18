@@ -21,10 +21,10 @@ website:
 
     - id: maths
       contents:   
-        - maths/early-years.qmd
+        - maths/Early-years.qmd
         - maths/primary.qmd
-        - maths/secondary.qmd
-        - maths/senior-secondary.qmd
+        - maths/Eecondary.qmd
+        - maths/Senior-secondary.qmd
     - id: science
       contents: []
   
