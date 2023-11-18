@@ -6,8 +6,10 @@ project:
 
 website:
   title: "Farmhill Curriculum"
+  
   page-navigation: true
   navbar:
+    logo: farmhill-logo2.png
     left:
       - href: index.qmd
         text: Home
@@ -23,7 +25,7 @@ website:
       contents:   
         - maths/Early-years.qmd
         - maths/primary.qmd
-        - maths/Eecondary.qmd
+        - maths/Secondary.qmd
         - maths/Senior-secondary.qmd
     - id: science
       contents: []
