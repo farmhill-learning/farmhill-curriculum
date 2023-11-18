@@ -9,7 +9,7 @@ website:
   
   page-navigation: true
   navbar:
-    logo: farmhill-logo2.png
+    logo: farmhill-logo2.png 
     left:
       - href: index.qmd
         text: Home
@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: cosmo
-    #css: styles.css
+    css: styles.css
     toc: true
     page-layout: full
 
