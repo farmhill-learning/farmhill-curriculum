@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "science/index.html",
-    "href": "science/index.html",
-    "title": "Science",
-    "section": "",
-    "text": "Science"
-  },
-  {
     "objectID": "maths/index.html",
     "href": "maths/index.html",
     "title": "Mathematics",
@@ -21,25 +14,31 @@
     "text": "At a broad level, we expect the students to think like mathematicians when they do math. While we do focus on content, methods and techniques, we would really like them to see the patterns around them and make sense."
   },
   {
-    "objectID": "maths/Secondary.html",
-    "href": "maths/Secondary.html",
-    "title": "Secondary School",
-    "section": "",
-    "text": "Secondary School\nsecondary school"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Farmhill Curriculum",
-    "section": "",
-    "text": "Welcome to knowledge base of the Farmhil Learning Community.\nThis website contains the teaching resources curated by the teachers of Farmhill."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This website contains the knowledge base of the Farmhil Learning Community."
+  },
+  {
+    "objectID": "maths/primary.html",
+    "href": "maths/primary.html",
+    "title": "Primary School",
+    "section": "",
+    "text": "Primary School\nThis section outlines the approach to mathematics in the early years.",
+    "crumbs": [
+      "Primary School"
+    ]
+  },
+  {
+    "objectID": "maths/Secondary.html",
+    "href": "maths/Secondary.html",
+    "title": "Secondary School",
+    "section": "",
+    "text": "Secondary School\nsecondary school",
+    "crumbs": [
+      "Secondary School"
+    ]
   },
   {
     "objectID": "authoring/index.html",
@@ -67,20 +66,33 @@
     "href": "maths/Early-years.html",
     "title": "Early Years",
     "section": "",
-    "text": "Early Years\nthis is early years"
+    "text": "Early Years\nthis is early years",
+    "crumbs": [
+      "Early Years"
+    ]
   },
   {
     "objectID": "maths/Senior-secondary.html",
     "href": "maths/Senior-secondary.html",
     "title": "Senior Secondary School",
     "section": "",
-    "text": "Senior Secondary School\nthis is"
+    "text": "Senior Secondary School\nthis is",
+    "crumbs": [
+      "Senior Secondary School"
+    ]
   },
   {
-    "objectID": "maths/primary.html",
-    "href": "maths/primary.html",
-    "title": "Primary School",
+    "objectID": "science/index.html",
+    "href": "science/index.html",
+    "title": "Science",
     "section": "",
-    "text": "Primary School\nThis section outlines the approach to mathematics in the early years."
+    "text": "Science"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Farmhill Curriculum",
+    "section": "",
+    "text": "Welcome to knowledge base of the Farmhil Learning Community.\nThis website contains the teaching resources curated by the teachers of Farmhill."
   }
 ]
